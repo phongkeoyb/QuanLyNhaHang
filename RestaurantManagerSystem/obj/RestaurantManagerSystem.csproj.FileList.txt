@@ -1,0 +1,11 @@
+bin\Debug\RestaurantManagerSystem.exe
+bin\Debug\RestaurantManagerSystem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+obj\Debug\RestaurantManagerSystem.exe
+obj\Debug\RestaurantManagerSystem.pdb
+obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+obj\Debug\RestaurantManagerSystem.frmMain.resources
+obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources

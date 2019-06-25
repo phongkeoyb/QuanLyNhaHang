@@ -1,0 +1,126 @@
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+D:\Learning\Khóa Luận Tốt Nghiệp\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+E:\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+E:\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+E:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+I:\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+I:\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+I:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+D:\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+D:\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+D:\RestaurantManagerSystem\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+C:\Users\windy-giodong\Desktop\RestaurantManagerSystem_Gia\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoNgay.rpt
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoThangNam.rpt
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoKhoangNgay.rpt
+J:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoKhoangNgay.rpt
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoNgay.rpt
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoThangNam.rpt
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+I:\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoKhoangNgay.rpt
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoNgay.rpt
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoThangNam.rpt
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\Wind\Desktop\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.HoaDon.rpt
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoKhoangNgay.rpt
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoNgay.rpt
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Reports.RptThongKeTheoThangNam.rpt
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\Duc Tuyen\Desktop\Báo Cáo Khóa Luận Tốt Nhiệp\Ghi Dia\Hệ thông chương trinh quản lý hóa đơn tính tiền của nhà hàng\SOURCE\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
